@@ -1,1 +1,1 @@
-## This is a repo for Runsang's personal website
+## This is a repo for my personal website
